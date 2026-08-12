@@ -43,11 +43,10 @@ En el año 200 el nace el proyecto de recuperación de los archivos de Javeriana
    Puesto que la Universidad es una persona jurídica poseedora, propietaria o tenedora de archivos con significado histórico y/o con bienes declarados de interés cultural, es relevante que dichos registros también pertenezcan al Archivo General de la Nación. Además, hay que tener en cuenta que los documentos expropiados a los jesuitas después de su expulsión en la segunda mitad del siglo XVIII conformaron la primera colección de patrimonio documental en nuestra nación.
    Por otro lado, también considero muy relevante que el Archivo Histórico Javeriano hace parte del Comité del Sistema General de Archivos de la Pontificia Universidad Javeriana. Este comité nació por la necesidad de estandarizar los procesos de clasificación, recuperación de información, conservación y eliminación de documentos de toda la estructura de la Universidad de es decir, desde vicerrectorías, facultades, centros de investigación, la biblioteca general o la de filosofía y teología, hasta el Hospital San Ignacio o los servicios generales.
 
-- Normalizar los datos de los inventarios documentales históricos para el cargue de información en el gestor documental: esta fue la actividad central de mi práctica, consistió en diligenciar.
+- #### Normalizar los datos de los inventarios documentales históricos para el cargue de información en el gestor documental: esta fue la actividad central de mi práctica, consistió en diligenciar una serie de datos de unos archivos maestros para el cargue del gestor documental.
 
-   En primer lugar
+- Actas de consejo: esta actividad 
   
-- Actas de consejo:
 - Ejercicio práctico
    
    4.2 Aprendizajes.
