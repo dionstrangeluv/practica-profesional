@@ -26,14 +26,11 @@ Objetivo: diseñar un producto que evidencie el desarrollo de la práctica profe
 4. Actividades o funciones desempeñadas (plan de práctica)
 
    4.1 Descripción de cada una
-   - [Reconocer la historia y trayectoria institucional del Archivo Histórico Javeriano](historia-y-trayectoria-institucional-del-Archivo-Historico-Javeriano): 
-- #### Normalizar los datos de los inventarios documentales históricos para el cargue de información en el gestor documental: esta fue la actividad central de mi práctica, consistió en diligenciar una serie de datos de unos archivos maestros para el cargue del gestor documental.
-
-   Ver detalle completo [aquí](trd/normalizacion-de-datos-para-el-cargue-al-gestor-documental.md).
-
-- #### Actas de consejo: esta actividad hace referencia al diligenciamiento de un cuadro que recopila todas las actas del Comité del Sistema General de Archivos de la Pontificia Universidad Javeriana desde su conformación en el año 2012.
-
-Ver detalle completo [aquí](actas-del-consejo/actas-de-consejo.md).
+   - [Reconocer la historia y trayectoria institucional del Archivo Histórico Javeriano](historia-y-trayectoria-institucional-del-Archivo-Historico-Javeriano):
+     
+   - [Normalizar los datos de los inventarios documentales históricos para el cargue de información en el gestor documental](trd/normalizacion-de-datos-para-el-cargue-al-gestor-documental.md).
+     
+-[Lectura de las actas de consejo y diligenciamiento de cuadro para la recuperación de información](actas-del-consejo/actas-de-consejo.md).
   
    - Ejercicio práctico.
    
