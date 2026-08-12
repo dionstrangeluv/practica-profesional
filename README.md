@@ -1,4 +1,4 @@
-# trd-archivo-historico-javeriano
+# Entrega de cargo
 El presente producto corresponde a la entrega de cargo de mi práctica profesional para las carrera de Ciencia de la Información, Bibliotecología y Archivística e Historia en el año 2026.
 
 Objetivo: diseñar un producto que evidencie el desarrollo de la práctica profesional del estudiante en la organización, a través de la creación de un contenido digital que responda a las actividades llevadas a cabo.
