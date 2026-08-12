@@ -21,54 +21,67 @@ Objetivo: diseñar un producto que evidencie el desarrollo de la práctica profe
    Nombre del cargo:
 
 3. Contexto de la organización y del área/departamento en particular.
+   El Archivo Histórico Javeriano fue creado bajo la rectoría del Padre Gerardo Arango Puerta, S.J., en el año de 1996 y más tarde, en la administración del Padre Gerardo    Remolina Vargas, S.J., se consolida con la aprobación del nuevo Reglamento Orgánico de la Universidad, Acuerdo N. 339 del Consejo Directivo de la Pontificia Universidad    Javeriana, en Bogotá el 25 de agosto de 2003, con lo cual queda constituido orgánicamente, como el tercer componente del Sistema de Archivos Javerianos con la misión de    recoger la historia documentada de la Universidad, proteger su memoria institucional y su patrimonio cultural.
 
-El Archivo Histórico Javeriano fue creado bajo la rectoría del Padre Gerardo Arango Puerta, S.J., en el año de 1996 y más tarde, en la administración del Padre Gerardo Remolina Vargas, S.J., se consolida con la aprobación del nuevo Reglamento Orgánico de la Universidad, Acuerdo N. 339 del Consejo Directivo de la Pontificia Universidad Javeriana, en Bogotá el 25 de agosto de 2003, con lo cual queda constituido orgánicamente, como el tercer componente del Sistema de Archivos Javerianos con la misión de recoger la historia documentada de la Universidad, proteger su memoria institucional y su patrimonio cultural.
+   A lo largo de su trayectoria, el Archivo Histórico Javeriano ha visto nacer varios fondos y colecciones. El primero de ellos fue el Fondo Pontificia Universidad Javeriana, creado en 1996. Está dividido según las épocas históricas de la universidad: Javeriana Colonial 1604-1767, Extrañamiento (1767-1929) y Javeriana Contemporánea (1930 a la actualidad).
 
-A lo largo de su trayectoria, el Archivo Histórico Javeriano ha visto nacer varios fondos y colecciones. El primero de ellos fue el Fondo Pontificia Universidad Javeriana, creado en 1996. Está dividido según las épocas históricas de la universidad: Javeriana Colonial 1604-1767, Extrañamiento (1767-1929) y Javeriana Contemporánea (1930 a la actualidad).
+   Más adelante se creó el fondo denominado "Otros Fondos" con el fin de poder albergar el archivo personal del historiador Juan Manuel Pacheco, S.J., cuyos documentos, manuscritos y fichas de estudio constituyeron el primer fondo privado recibido en donación por la universidad. Este fondo permitió sumar nuevos integrantes a lo largo de las décadas a medida que profesores, jesuitas o familias notables donaban archivos y documentos.
+   Las colecciones también se contemplaron en el diseño original del archivo en 1996, se crearon por la necesidad técnica de segregar materiales que por su soporte físico (fotos, mapas, planos) requerían depósitos y condiciones de conservación especiales.
 
-Más adelante se creó el fondo denominado "Otros Fondos" con el fin de poder albergar el archivo personal del historiador Juan Manuel Pacheco, S.J., cuyos documentos, manuscritos y fichas de estudio constituyeron el primer fondo privado recibido en donación por la universidad. Este fondo permitió sumar nuevos integrantes a lo largo de las décadas a medida que profesores, jesuitas o familias notables donaban archivos y documentos.
-Las colecciones también se contemplaron en el diseño original del archivo en 1996, se crearon por la necesidad técnica de segregar materiales que por su soporte físico (fotos, mapas, planos) requerían depósitos y condiciones de conservación especiales.
+   En paralelo a la creación del Fondo del Padre Juan Manuel Pacheco, S.J., se construyó la colección Biblioteca de Historia y Referencia. En un principio estaba compuesta por los libros de consulta especializada, obras de historia eclesiástica y diccionarios biográficos que el historiador jesuita utilizaba para sus investigaciones. Hoy en día se mantiene como una colección abierta que se alimenta constantemente con nuevas adquisiciones de historiografía colombiana.
 
-En paralelo a la creación del Fondo del Padre Juan Manuel Pacheco, S.J., se construyó la colección Biblioteca de Historia y Referencia. En un principio estaba compuesta por los libros de consulta especializada, obras de historia eclesiástica y diccionarios biográficos que el historiador jesuita utilizaba para sus investigaciones. Hoy en día se mantiene como una colección abierta que se alimenta constantemente con nuevas adquisiciones de historiografía colombiana.
-
-En el año 200 el nace el proyecto de recuperación de los archivos de Javeriana Colonial, en alianza con el Programa Ayudas para el Desarrollo de Archivos de Iberoamérica, ADAI.   
+   En el año 200 el nace el proyecto de recuperación de los archivos de Javeriana Colonial, en alianza con el Programa Ayudas para el Desarrollo de Archivos de Iberoamérica, ADAI.   
 
 4. Actividades o funciones desempeñadas (plan de práctica)
 
    4.1 Descripción de cada una
-
    - Reconocer la historia y trayectoria institucional del Archivo Histórico Javeriano: esta primera actividad consistió en revisar aspectos elementales de la Archivo, para ello mi coordinadora, Nayibe Socha Rodríguez, me compartió una serie de enlaces de contenido audio, multimedia, los sitios web oficiales del Archivo Histórico y un repositorio audiovisual.
-   
-   Dentro de este contenido que me fue compartido destaco el Registro Nacional de Archivos Históricos (RENAHC) el cual es un instrumento de identificación de las personas naturales y jurídicas, ya sean públicas o privadas, propietarias, poseedoras o tenedoras de documentos, colecciones o fondos documentales de cierta significación cultural o que hayan sido declarados Bienes de Interés Cultural de Carácter Documental Archivístico.
-   Puesto que la Universidad es una persona jurídica poseedora, propietaria o tenedora de archivos con significado histórico y/o con bienes declarados de interés cultural, es relevante que dichos registros también pertenezcan al Archivo General de la Nación. Además, hay que tener en cuenta que los documentos expropiados a los jesuitas después de su expulsión en la segunda mitad del siglo XVIII conformaron la primera colección de patrimonio documental en nuestra nación.
-   Por otro lado, también considero muy relevante que el Archivo Histórico Javeriano hace parte del Comité del Sistema General de Archivos de la Pontificia Universidad Javeriana. Este comité nació por la necesidad de estandarizar los procesos de clasificación, recuperación de información, conservación y eliminación de documentos de toda la estructura de la Universidad de es decir, desde vicerrectorías, facultades, centros de investigación, la biblioteca general o la de filosofía y teología, hasta el Hospital San Ignacio o los servicios generales.
 
-- #### Normalizar los datos de los inventarios documentales históricos para el cargue de información en el gestor documental: esta fue la actividad central de mi práctica, consistió en diligenciar una serie de datos de unos archivos maestros para el cargue del gestor documental.
+     Dentro de este contenido que me fue compartido destaco el Registro Nacional de Archivos Históricos (RENAHC) el cual es un instrumento de identificación de las personas naturales y jurídicas, ya sean públicas o privadas, propietarias, poseedoras o tenedoras de documentos, colecciones o fondos documentales de cierta significación cultural o que hayan sido declarados Bienes de Interés Cultural de Carácter Documental Archivístico.
+
+     Puesto que la Universidad es una persona jurídica poseedora, propietaria o tenedora de archivos con significado histórico y/o con bienes declarados de interés cultural, es relevante que dichos registros también pertenezcan al Archivo General de la Nación. Además, hay que tener en cuenta que los documentos expropiados a los jesuitas después de su expulsión en la segunda mitad del siglo XVIII conformaron la primera colección de patrimonio documental en nuestra nación.
+
+     Por otro lado, también considero muy relevante que el Archivo Histórico Javeriano hace parte del Comité del Sistema General de Archivos de la Pontificia Universidad Javeriana. Este comité nació por la necesidad de estandarizar los procesos de clasificación, recuperación de información, conservación y eliminación de documentos de toda la estructura de la Universidad de es decir, desde vicerrectorías, facultades, centros de investigación, la biblioteca general o la de filosofía y teología, hasta el Hospital San Ignacio o los servicios generales.
+
+     - #### Normalizar los datos de los inventarios documentales históricos para el cargue de información en el gestor documental: esta fue la actividad central de mi práctica, consistió en diligenciar una serie de datos de unos archivos maestros para el cargue del gestor documental.
 
    Ver detalle completo [aquí](documentacion/normalizacion-inventarios.md).
 
-- #### Actas de consejo: esta actividad hace referencia al diligenciamiento de un cuadro que recopila todas las actas del Comité del Sistema General de Archivos de la Pontificia Universidad Javeriana desde su conformación en el año 2012.
+   - #### Actas de consejo: esta actividad hace referencia al diligenciamiento de un cuadro que recopila todas las actas del Comité del Sistema General de Archivos de la Pontificia Universidad Javeriana desde su conformación en el año 2012.
 
 Ver detalle completo [aquí](documentacion/actas-de-consejo.md).
   
-- Ejercicio práctico.
+   - Ejercicio práctico.
    
    4.2 Aprendizajes.
 
-- Adquisición y mejora de mis habilidades ofimáticas. En un mundo cada vez más digitalizado y sobretodo en un oficio que tiene una relación simbiótica con los sistemas de información y las tecnologías de información y comunicación (TIC), el conocimiento y uso de comandos y atajos para navegar en programas como Excel es fundamental para convertir una tarea tediosa en algo sencillo, simplificado y rápido. Es más, me atrevo a decir, que con el cuidado y cautela que una tarea como el diligenciamiento de datos requiere, los atajos para el teclado pueden prevenir errores tipográficos y permite normalizar en un único formato los datos.
+      - Adquisición y mejora de mis habilidades ofimáticas. En un mundo cada vez más digitalizado y sobretodo en un oficio que tiene una relación simbiótica con los sistemas de información y las tecnologías de información y comunicación (TIC), el conocimiento y uso de comandos y atajos para navegar en programas como Excel es fundamental para convertir una tarea tediosa en algo sencillo, simplificado y rápido. Es más, me atrevo a decir, que con el cuidado y cautela que una tarea como el diligenciamiento de datos requiere, los atajos para el teclado pueden prevenir errores tipográficos y permite normalizar en un único formato los datos.
   
-- Aplicación de tablas de retención documental: según el Archivo General de la Nación de Colombia, las tablas de retención documental (TRD) son un listado de series, con sus correspondientes tipos documentales, a las cuales se asigna el tiempo de permanencia en cada etapa del ciclo vital de los documentos. Básicamente, es un instrumento archivístico para la organización de documentos, en el caso del Archivo Histórico Javeriano, el formato que usa la universidad identifica:
-<img width="2420" height="181" alt="image" src="https://github.com/user-attachments/assets/461ef624-6973-4c95-8a35-4b3c87471781" />
+      - Aplicación de tablas de retención documental: según el Archivo General de la Nación de Colombia, las tablas de retención documental (TRD) son un listado de series, con sus correspondientes tipos documentales, a las cuales se asigna el tiempo de permanencia en cada etapa del ciclo vital de los documentos. Básicamente, es un instrumento archivístico para la organización de documentos, el formato que usa el Archivo Histórico Javeriano identifica:
 
-<img width="2420" height="61" alt="image" src="https://github.com/user-attachments/assets/3cce0280-dbc9-4c6b-b999-dc89a5a0a48d" />
+      <img width="2420" height="181" alt="image" src="https://github.com/user-attachments/assets/461ef624-6973-4c95-8a35-4b3c87471781" />
 
-
-
-
+      <img width="2420" height="61" alt="image" src="https://github.com/user-attachments/assets/3cce0280-dbc9-4c6b-b999-dc89a5a0a48d" />
+   
+   - Comunicación transversal y documentada: para poder cumplir con los objetivos, seguir instrucciones y mitigar riesgos, durante la práctica me pude dar cuenta de que cualquier nueva tarea, instrucción o modificación se debe, en primer lugar, comunicar con la la línea de mando más cercana; en segundo, todo lo pactado verbalmente debe ser documentado, preferiblemente usando los canales de comunicación  institucionales; en tercero, tener fácil acceso a dicha información para evitar retrasos o malentendidos.
+   - .
+   - .
+   - .
+     
    4.3 Dificultades.
+
+   -. 
+   -.
+   -.
    
    4.4 Oportunidades de mejora.
+
+   -.
+   -.
    
    4.5 Aportes o contribuciones a la organización como resultado de la práctica.
+
+   -.
+   -.
    
-6. Recomendaciones o sugerencias orientadas a la práctica con respecto al cargo ejercido.
+6. Recomendaciones o sugerencias orientadas a la práctica con respecto al cargo ejercido:
