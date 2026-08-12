@@ -43,11 +43,11 @@ Objetivo: diseñar un producto que evidencie el desarrollo de la práctica profe
 
      Por otro lado, también considero muy relevante que el Archivo Histórico Javeriano hace parte del Comité del Sistema General de Archivos de la Pontificia Universidad Javeriana. Este comité nació por la necesidad de estandarizar los procesos de clasificación, recuperación de información, conservación y eliminación de documentos de toda la estructura de la Universidad de es decir, desde vicerrectorías, facultades, centros de investigación, la biblioteca general o la de filosofía y teología, hasta el Hospital San Ignacio o los servicios generales.
 
-     - #### Normalizar los datos de los inventarios documentales históricos para el cargue de información en el gestor documental: esta fue la actividad central de mi práctica, consistió en diligenciar una serie de datos de unos archivos maestros para el cargue del gestor documental.
+- #### Normalizar los datos de los inventarios documentales históricos para el cargue de información en el gestor documental: esta fue la actividad central de mi práctica, consistió en diligenciar una serie de datos de unos archivos maestros para el cargue del gestor documental.
 
-   Ver detalle completo [aquí](documentacion/normalizacion-inventarios.md).
+   Ver detalle completo [aquí](trd/normalizacion de datos para el cargue al gestor documental.md).
 
-   - #### Actas de consejo: esta actividad hace referencia al diligenciamiento de un cuadro que recopila todas las actas del Comité del Sistema General de Archivos de la Pontificia Universidad Javeriana desde su conformación en el año 2012.
+- #### Actas de consejo: esta actividad hace referencia al diligenciamiento de un cuadro que recopila todas las actas del Comité del Sistema General de Archivos de la Pontificia Universidad Javeriana desde su conformación en el año 2012.
 
 Ver detalle completo [aquí](documentacion/actas-de-consejo.md).
   
