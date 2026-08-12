@@ -26,9 +26,12 @@ Objetivo: diseñar un producto que evidencie el desarrollo de la práctica profe
 
    4.1 Descripción de cada una
    Inducción al Archivo Histórico Javeriano.
-   4.2 Aprendizajes 
-   4.3 Dificultades
+   4.2 Aprendizajes.
+   
+   4.3 Dificultades.
+   
    4.4 Oportunidades de mejora.
+   
    4.5 Aportes o contribuciones a la organización como resultado de la práctica.
    
-6. Recomendaciones o sugerencias orientadas a la práctica con respecto al cargo ejercido.
+7. Recomendaciones o sugerencias orientadas a la práctica con respecto al cargo ejercido.
