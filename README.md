@@ -49,8 +49,9 @@ En el año 200 el nace el proyecto de recuperación de los archivos de Javeriana
 
 - #### Actas de consejo: esta actividad hace referencia al diligenciamiento de un cuadro que recopila todas las actas del Comité del Sistema General de Archivos de la Pontificia Universidad Javeriana desde su conformación en el año 2012.
 
+Ver detalle completo [aquí](documentacion/actas-de-consejo.md).
   
-- Ejercicio práctico
+- Ejercicio práctico.
    
    4.2 Aprendizajes.
    
