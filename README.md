@@ -26,12 +26,9 @@ Objetivo: diseñar un producto que evidencie el desarrollo de la práctica profe
 4. Actividades o funciones desempeñadas (plan de práctica)
 
    4.1 Descripción de cada una
-   - [Reconocer la historia y trayectoria institucional del Archivo Histórico Javeriano](historia-y-trayectoria-institucional-del-Archivo-Historico-Javeriano):
-     
+   - [Reconocer la historia y trayectoria institucional del Archivo Histórico Javeriano](historia-y-trayectoria-institucional-del-Archivo-Historico-Javeriano).
    - [Normalizar los datos de los inventarios documentales históricos para el cargue de información en el gestor documental](trd/normalizacion-de-datos-para-el-cargue-al-gestor-documental.md).
-     
--[Lectura de las actas de consejo y diligenciamiento de cuadro para la recuperación de información](actas-del-consejo/actas-de-consejo.md).
-  
+   - [Lectura de las actas de consejo y diligenciamiento de cuadro para la recuperación de información](actas-del-consejo/actas-de-consejo.md).
    - Ejercicio práctico.
    
    4.2 Aprendizajes.
