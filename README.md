@@ -45,6 +45,8 @@ En el año 200 el nace el proyecto de recuperación de los archivos de Javeriana
 
 - #### Normalizar los datos de los inventarios documentales históricos para el cargue de información en el gestor documental: esta fue la actividad central de mi práctica, consistió en diligenciar una serie de datos de unos archivos maestros para el cargue del gestor documental.
 
+   Ver detalle completo [aquí](documentacion/normalizacion-inventarios.md).
+
 - Actas de consejo: esta actividad 
   
 - Ejercicio práctico
