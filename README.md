@@ -22,16 +22,7 @@ Objetivo: diseñar un producto que evidencie el desarrollo de la práctica profe
 
 3. Contexto de la organización y del área/departamento en particular.
    El Archivo Histórico Javeriano fue creado bajo la rectoría del Padre Gerardo Arango Puerta, S.J., en el año de 1996 y más tarde, en la administración del Padre Gerardo    Remolina Vargas, S.J., se consolida con la aprobación del nuevo Reglamento Orgánico de la Universidad, Acuerdo N. 339 del Consejo Directivo de la Pontificia Universidad    Javeriana, en Bogotá el 25 de agosto de 2003, con lo cual queda constituido orgánicamente, como el tercer componente del Sistema de Archivos Javerianos con la misión de    recoger la historia documentada de la Universidad, proteger su memoria institucional y su patrimonio cultural.
-
-   A lo largo de su trayectoria, el Archivo Histórico Javeriano ha visto nacer varios fondos y colecciones. El primero de ellos fue el Fondo Pontificia Universidad Javeriana, creado en 1996. Está dividido según las épocas históricas de la universidad: Javeriana Colonial 1604-1767, Extrañamiento (1767-1929) y Javeriana Contemporánea (1930 a la actualidad).
-
-   Más adelante se creó el fondo denominado "Otros Fondos" con el fin de poder albergar el archivo personal del historiador Juan Manuel Pacheco, S.J., cuyos documentos, manuscritos y fichas de estudio constituyeron el primer fondo privado recibido en donación por la universidad. Este fondo permitió sumar nuevos integrantes a lo largo de las décadas a medida que profesores, jesuitas o familias notables donaban archivos y documentos.
-   Las colecciones también se contemplaron en el diseño original del archivo en 1996, se crearon por la necesidad técnica de segregar materiales que por su soporte físico (fotos, mapas, planos) requerían depósitos y condiciones de conservación especiales.
-
-   En paralelo a la creación del Fondo del Padre Juan Manuel Pacheco, S.J., se construyó la colección Biblioteca de Historia y Referencia. En un principio estaba compuesta por los libros de consulta especializada, obras de historia eclesiástica y diccionarios biográficos que el historiador jesuita utilizaba para sus investigaciones. Hoy en día se mantiene como una colección abierta que se alimenta constantemente con nuevas adquisiciones de historiografía colombiana.
-
-   En el año 200 el nace el proyecto de recuperación de los archivos de Javeriana Colonial, en alianza con el Programa Ayudas para el Desarrollo de Archivos de Iberoamérica, ADAI.   
-
+   
 4. Actividades o funciones desempeñadas (plan de práctica)
 
    4.1 Descripción de cada una
