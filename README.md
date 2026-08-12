@@ -45,7 +45,7 @@ Objetivo: diseñar un producto que evidencie el desarrollo de la práctica profe
 
 - #### Normalizar los datos de los inventarios documentales históricos para el cargue de información en el gestor documental: esta fue la actividad central de mi práctica, consistió en diligenciar una serie de datos de unos archivos maestros para el cargue del gestor documental.
 
-   Ver detalle completo [aquí](trd/normalizacion de datos para el cargue al gestor documental.md).
+   Ver detalle completo [aquí](trd/normalizacion-de-datos-para-el-cargue-al-gestor-documental.md).
 
 - #### Actas de consejo: esta actividad hace referencia al diligenciamiento de un cuadro que recopila todas las actas del Comité del Sistema General de Archivos de la Pontificia Universidad Javeriana desde su conformación en el año 2012.
 
