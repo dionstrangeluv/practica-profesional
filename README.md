@@ -33,18 +33,11 @@ Objetivo: diseñar un producto que evidencie el desarrollo de la práctica profe
    
    4.2 Aprendizajes.
 
-   - Adquisición y mejora de mis habilidades ofimáticas. En un mundo cada vez más digitalizado y sobretodo en un oficio que tiene una relación simbiótica con los sistemas de información y las tecnologías de información y comunicación (TIC), el conocimiento y uso de comandos y atajos para navegar en programas como Excel es fundamental para convertir una tarea tediosa en algo sencillo, simplificado y rápido. Es más, me atrevo a decir, que con el cuidado y cautela que una tarea como el diligenciamiento de datos requiere, los atajos para el teclado pueden prevenir errores tipográficos y permite normalizar en un único formato los datos.
+   - Adquisición y mejora de mis habilidades ofimáticas. En un mundo cada vez más digitalizado y sobretodo en un oficio que tiene una relación simbiótica con los sistemas de información y las tecnologías de información y comunicación (TIC), el conocimiento y uso de comandos o atajos para navegar en programas como Excel son fundamentales para convertir una tarea tediosa en algo sencillo, simplificado y rápido. Es más, me atrevo a decir, que con el cuidado y cautela que una tarea como el diligenciamiento de datos requiere, los atajos para el teclado pueden prevenir errores tipográficos y permite normalizar en un único formato los datos.
   
- - Aplicación de tablas de retención documental: básicamente, es un instrumento archivístico para la organización de documentos, el formato que usa el Archivo Histórico Javeriano identifica:
-
-<img width="2420" height="181" alt="image" src="https://github.com/user-attachments/assets/461ef624-6973-4c95-8a35-4b3c87471781" />
-
-<img width="2420" height="61" alt="image" src="https://github.com/user-attachments/assets/3cce0280-dbc9-4c6b-b999-dc89a5a0a48d" />
-   
+   - Aplicación de transferencias documentales: según el Archivo General de la Nación, es un proceso de remisión de los documentos del archivo de gestión al central, y de éste al histórico, de conformidad con las tablas de retención y de valoración documental vigentes. En mi caso particular, solo tuve la oportunidad de trabajar con los documentos de 3 facultades, y pude determinar que las actuales TRD y TVD con las que trabaja el Archivo Histórico Javeriano se han adaptado bastante bien según el espacio físico, el tipo de documentos, las unidades que elaboran y las necesidades de la institución.
+     Además pude observar que 
    - Comunicación transversal y documentada: para poder cumplir con los objetivos, seguir instrucciones y mitigar riesgos, durante la práctica me pude dar cuenta de que cualquier nueva tarea, instrucción o modificación se debe, en primer lugar, comunicar con la la línea de mando más cercana; en segundo, todo lo pactado verbalmente debe ser documentado, preferiblemente usando los canales de comunicación  institucionales; en tercero, tener fácil acceso a dicha información para evitar retrasos o malentendidos.
-   - .
-   - .
-   - .
      
    4.3 Dificultades.
 
