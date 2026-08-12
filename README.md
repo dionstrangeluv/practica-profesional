@@ -57,7 +57,7 @@ Ver detalle completo [aquí](documentacion/actas-de-consejo.md).
 
    - Adquisición y mejora de mis habilidades ofimáticas. En un mundo cada vez más digitalizado y sobretodo en un oficio que tiene una relación simbiótica con los sistemas de información y las tecnologías de información y comunicación (TIC), el conocimiento y uso de comandos y atajos para navegar en programas como Excel es fundamental para convertir una tarea tediosa en algo sencillo, simplificado y rápido. Es más, me atrevo a decir, que con el cuidado y cautela que una tarea como el diligenciamiento de datos requiere, los atajos para el teclado pueden prevenir errores tipográficos y permite normalizar en un único formato los datos.
   
- - Aplicación de tablas de retención documental: según el Archivo General de la Nación de Colombia, las tablas de retención documental (TRD) son un listado de series, con sus correspondientes tipos documentales, a las cuales se asigna el tiempo de permanencia en cada etapa del ciclo vital de los documentos. Básicamente, es un instrumento archivístico para la organización de documentos, el formato que usa el Archivo Histórico Javeriano identifica:
+ - Aplicación de tablas de retención documental: básicamente, es un instrumento archivístico para la organización de documentos, el formato que usa el Archivo Histórico Javeriano identifica:
 
 <img width="2420" height="181" alt="image" src="https://github.com/user-attachments/assets/461ef624-6973-4c95-8a35-4b3c87471781" />
 
