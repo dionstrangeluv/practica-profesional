@@ -49,7 +49,7 @@ Objetivo: diseñar un producto que evidencie el desarrollo de la práctica profe
 
 - #### Actas de consejo: esta actividad hace referencia al diligenciamiento de un cuadro que recopila todas las actas del Comité del Sistema General de Archivos de la Pontificia Universidad Javeriana desde su conformación en el año 2012.
 
-Ver detalle completo [aquí](documentacion/actas-de-consejo.md).
+Ver detalle completo [aquí](actas-del-consejo/actas-de-consejo.md).
   
    - Ejercicio práctico.
    
