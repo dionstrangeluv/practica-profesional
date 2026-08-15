@@ -21,9 +21,9 @@ Objetivo: diseñar un producto que evidencie el desarrollo de la práctica profe
    Nombre del cargo:
 
 3. Contexto de la organización y del área/departamento en particular.
-   El Archivo Histórico Javeriano fue creado bajo la rectoría del Padre Gerardo Arango Puerta, S.J., en el año de 1996 y más tarde, en la administración del Padre Gerardo    Remolina Vargas, S.J., se consolida con la aprobación del nuevo Reglamento Orgánico de la Universidad, Acuerdo N. 339 del Consejo Directivo de la Pontificia Universidad    Javeriana, en Bogotá el 25 de agosto de 2003, con lo cual queda constituido orgánicamente, como el tercer componente del Sistema de Archivos Javerianos con la misión de    recoger la historia documentada de la Universidad, proteger su memoria institucional y su patrimonio cultural.
+   El Archivo Histórico Javeriano fue creado bajo la rectoría del Padre Gerardo Arango Puerta, S.J., en el año de 1996 y más tarde, en la administración del Padre Gerardo Remolina Vargas, S.J., se consolida con la aprobación del nuevo Reglamento Orgánico de la Universidad, Acuerdo N. 339 del Consejo Directivo de la Pontificia Universidad    Javeriana, en Bogotá el 25 de agosto de 2003, con lo cual queda constituido orgánicamente, como el tercer componente del Sistema de Archivos Javerianos con la misión de    recoger la historia documentada de la Universidad, proteger su memoria institucional y su patrimonio cultural.
    
-4. Actividades o funciones desempeñadas (plan de práctica)
+4. Actividades o funciones desempeñadas (plan de práctica).
 
    4.1 Descripción de cada una
    - [Reconocer la historia y trayectoria institucional del Archivo Histórico Javeriano](historia-y-trayectoria-institucional-del-Archivo-Historico-Javeriano).
@@ -48,11 +48,13 @@ Objetivo: diseñar un producto que evidencie el desarrollo de la práctica profe
    4.4 Oportunidades de mejora.
 
    - Tener equipos de trabajo más actualizados, monitores que tengan buen rendimiento y hardware con unidades de disco.
-   - Comunicación efectiva para poder trabajar con claridad
+   - Comunicación efectiva para poder trabajar con claridad.
    
    4.5 Aportes o contribuciones a la organización como resultado de la práctica.
 
-   -.
-   -.
+   - Consolidación y estandarización de inventarios documentales: considero importante unificar los archivos maestros en un solo archivo estructurado por facultad, para reducir la fragmentación de la información y facilitar su consulta.
+   - Documentación del proceso: dejar registro metodológico de cómo se hizo la consolidación, para que pueda servir como referencia para futuros ejercicios similares o para quien continúe el proceso.
    
 6. Recomendaciones o sugerencias orientadas a la práctica con respecto al cargo ejercido:
+   - Adoptar formalmente control de versiones para archivos documentales críticos, no solo como iniciativa personal sino como práctica institucionalizada del área, dado que facilita el seguimiento de cambios y la recuperación ante errores.
+   - Definir convenciones de nomenclatura más explícitas para las hojas y archivos que faciliten la automatización de las transferencias.
