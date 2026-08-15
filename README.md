@@ -15,7 +15,7 @@ Objetivo: diseñar un producto que evidencie el desarrollo de la práctica profe
    Correo institucional: nayibe.socha@javeriana.edu.co
    Teléfono: 3208320 Ext. 5960.
 
-   Lugar: Archivo Histórico Javeriano, Pontificia Universidad Javeriana.
+   Lugar: Archivo Histórico Javeriano (AHJ), Pontificia Universidad Javeriana.
    Dirección: Carrera 5 #39-00, Bogotá.
 
    Nombre del cargo:
@@ -35,20 +35,20 @@ Objetivo: diseñar un producto que evidencie el desarrollo de la práctica profe
 
    - Adquisición y mejora de mis habilidades ofimáticas. En un mundo cada vez más digitalizado y sobretodo en un oficio que tiene una relación simbiótica con los sistemas de información y las tecnologías de información y comunicación (TIC), el conocimiento y uso de comandos o atajos para navegar en programas como Excel son fundamentales para convertir una tarea tediosa en algo sencillo, simplificado y rápido. Es más, me atrevo a decir, que con el cuidado y cautela que una tarea como el diligenciamiento de datos requiere, los atajos para el teclado pueden prevenir errores tipográficos y permite normalizar en un único formato los datos.
   
-   - Aplicación de transferencias documentales: según el Archivo General de la Nación, es un proceso de remisión de los documentos del archivo de gestión al central, y de éste al histórico, de conformidad con las tablas de retención y de valoración documental vigentes. En mi caso particular, solo tuve la oportunidad de trabajar con los documentos de 3 facultades, y pude determinar que las actuales TRD y TVD con las que trabaja el Archivo Histórico Javeriano se han adaptado bastante bien según el espacio físico, el tipo de documentos, las unidades que elaboran y las necesidades de la institución.
-     Además pude observar que 
+   - Aplicación de transferencias documentales: según el Archivo General de la Nación, la transferencia documental es un proceso de remisión de los documentos del archivo de gestión al central, y de éste al histórico, de conformidad con las tablas de retención y de valoración documental vigentes. En mi caso particular, solo tuve la oportunidad de trabajar con los documentos de 3 facultades (Arquitectura y diseño, artes, y ciencias económicas y administrativas), y pude determinar que las actuales TRD y TVD con las que trabaja el Archivo Histórico Javeriano se han adaptado bastante bien según el espacio físico, el tipo de documentos, las unidades que elaboran y las necesidades de la institución.
    - Comunicación transversal y documentada: para poder cumplir con los objetivos, seguir instrucciones y mitigar riesgos, durante la práctica me pude dar cuenta de que cualquier nueva tarea, instrucción o modificación se debe, en primer lugar, comunicar con la la línea de mando más cercana; en segundo, todo lo pactado verbalmente debe ser documentado, preferiblemente usando los canales de comunicación  institucionales; en tercero, tener fácil acceso a dicha información para evitar retrasos o malentendidos.
      
    4.3 Dificultades.
 
-   -. 
-   -.
-   -.
+   - Al ser mi primera experiencia laboral relacionada a la carrera de ciencia de la información, los conocimientos que tenía sobre la gestión documental eran únicamente teóricos. Por otro lado, el AHJ hace parte de una institución privada y, por ende, puede adaptar las normas de gestión documental según sus necesidades.
+     Ahora bien, al enfrentarme a las transferencias documentales pude darme cuenta de la aplicación de la norma y las modificaciones que el AHJ ha implementado. 
+   - Conocer las nomenclaturas y la forma en la que el archivo nombra sus archivos de transferencias, representó una dificultad porque al diligenciar los datos o nombrar los archivos cometí varios errores mientras me adaptaba al significado de los acrónimos que usa el AHJ.
+   - La falta de registro escrito, ya sea por medio de correo electrónico u otras comunicaciones institucionales, de nuevas instrucciones, tareas o modificaciones puesto que cuando quedaban como conversaciones al aire, era más probable cometer errores.
    
    4.4 Oportunidades de mejora.
 
-   -.
-   -.
+   - Tener equipos de trabajo más actualizados, monitores que tengan buen rendimiento y hardware con unidades de disco.
+   - Comunicación efectiva para poder trabajar con claridad
    
    4.5 Aportes o contribuciones a la organización como resultado de la práctica.
 
