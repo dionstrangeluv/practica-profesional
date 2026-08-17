@@ -1,0 +1,34 @@
+VersionTRD,CodigoReferencia,CodigoGeografico,CodigoSerie,Serie,CodigoSubserie,Subserie,CodigoSerieSubserie,Asunto,EstadoExpediente,FechaCierre,EstadoFaseArchivo,Volumen,NoFolios,NumeroDocumentos,FechaInicial,FechaFinal,NumeroCajaCustodioASE,NumeroCarpetaCustodioASE,Deposito,Area,Piso,TipoMobiliario,Bloque,Lado,Estante,Entrepaño,NumeroCajaFisica,NumeroCarpetaFisica,UbicacionArchivoGestion,UbicacionArchivoCentralASE,UbicacionArchivoHistorico,Unidadqueelaboró,Contenido,NumerodeOrden,Fondo,Subfondo,Seccion,Subseccion,UnidadConservacionySoporte,ArchivoaTransferir,Observaciones,AgrupacionDocumental,Disposicion Final,NumeroCajaCustodio,NumeroCarpetaCustodio,Estado
+,,,,"Campo automático
+Autocorrige",,"Campo automático
+Autocorrige","Campo que no se puede equivocar
+",,Campo que no se puede equivocar,Ingrese el año de la fecha final,Campo que no se puede equivocar,"Si no aplica, dejar en blanco. ",,,"No admite fechas con días mes o año en 00
+
+","No admite fechas con días mes o año en 00
+
+",Aplica para TDS,Aplica para TDS,,,,,,,,,,,,,,,,,Campo que no se puede equivocar,Campo que no se puede equivocar,Campo que no se puede equivocar,Campo que no se puede equivocar,,Campo que no se puede equivocar,,,Campo automático,,,Campo que no se puede equivocar
+Cuando es TVD se debe dejar el campo vacio,,BOG/CLO,,,,,(El carácter especial que separa el código de serie del de subserie es el PUNTO),,"ABIERTO
+CERRADO",0000,"ARCHIVO GESTION
+ARCHIVO CENTRAL
+ARCHIVO ASE
+ARCHIVO HISTORICO","Se asigna el número de volumen cuando exista más de una carpeta del expediente. 
+El orden asignado del número de volumen será a partir de las fechas extremas de cada carpeta. Donde el primer volumen será el más antiguo.",,,DD/MM/AAAA,DD/MM/AAAA,,,,,,,,,,,,,,,,,,,,,,,,"ARCHIVO GESTION
+ARCHIVO CENTRAL
+ARCHIVO SEGUNDA EDAD
+ARCHIVO SEGUNDA EDAD EN AH
+ARCHIVO HISTORICO",,,,,,PENDIENTE
+,,,,,,,,,En AH es CERRADO,,,,,,"Se debe registrar con el dia primero, y el mes primero del respectivo año. 
+
+Y registrar en el campo observaciones la aproximación de la fecha. ","Se debe registrar con el dia útlimo del mes, y el último mes del respectivo año.
+
+Y registrar en el campo observaciones la aproximación de la fecha. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,Formato General,Formato General,Formato Fecha (personalizada),Formato Fecha (personalizada),,,,,,,,,,,,,,,,,,,,,,,,Dejar en blanco,,,,,,
+,VRAC-FAC-AD-SFA,BOG,8,ACTAS,8,ACTAS DEL CONSEJO DE FACULTAD,8.8,CONSEJO DE FACULTAD (ACTAS Y CITACIONES),CERRADO,2004,ARCHIVO HISTORICO,,,,01/01/1998,31/12/2004,,,DC,,,,B17,LA,ES3,EN5,CJ55,CP853,,,B17-LA-ES3-EN5-CJ55-CP853,FACULTAD DE ARQUITECTURA Y DISEÑO,"CORREOS ELECTRONICOS, ACTA DE CONSEJO DE FACULTAD # 012-98, PROPUESTA DE GUIA METODOLOGICA PARA LA DISCUSION EN LOS CONSEJOS DE FACULTAD DEL DOCUMENTO ""FORMACION INTEGRAL EN LA UNIVERSIDAD JAVERIANA"", ACTA DE CONSEJO # 005-99, ACTA DE CONSEJO # 003-99,  ACTA DE CONSEJO # 001-99, PRESENTACION DE CIFRAS, NOMENCLATURA PARA LOS CAMPOS DE LAS CIENCIAS Y TECNOLOGIAS, FROMULARIO PARA EL REGISTRO DE PROYECTOS DE INVESTIGACION, GUIA PRELIMINAR DE PRESENTACION DE PROYECTOS, CONCEPTOS DE EVALUACION EXTERNA, CONVOCATORIA GENERAL, INTRODUCCION, ACTA DE CONSEJO # 005-98, ACTA DE CONSEJO # 004-98, ACTA DE CONSEJO # 001-98",1,PONTIFICIA UNIVERSIDAD JAVERIANA,VICERRECTORIA ACADEMICA,FACULTAD DE ARQUITECTURA Y DISEÑO,SECRETARIA DE FACULTAD,CARPETA,,,,,,,PENDIENTE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Vicerrectoría Académica,,,temporales : datos pendientes para el cargue,,,,,,,,,,,,,,,,,,,,,,,,,,,,Programa de Experiencias Internacionales PEI,,,,,,,,,,,,,,,
+,,,identificar el depo. Donde actuslmente está ubicado y el tipo de mobiliario,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PENDIENTE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SIN NORMALIZAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
