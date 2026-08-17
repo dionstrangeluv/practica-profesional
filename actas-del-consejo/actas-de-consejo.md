@@ -1,1 +1,2 @@
-
+Esta actividad consistió en leer las actas del Comité del Sistema General de Archivos de la Pontificia Universidad Javeriana entre 2012 a 2024 para diligenciar un cuadro con las decisiones tomadas en cada sesión e identificar las tablas de retención documental (TRD) aprobadas.
+Los insumos que me compartieron para llevar a cabo esta actividad fueron las actas de cada sesión y los anexos correspondientes que se usaron para la redacción de cada actas, que iban desde CDs, diapositivas, presentaciones o informes del gestor documental que tenía contratado la Universidad.
