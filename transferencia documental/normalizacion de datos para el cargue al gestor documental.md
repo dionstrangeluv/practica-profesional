@@ -4,4 +4,4 @@ Como bien indica el nombre de esta entidad, Archivo Histórico Javeriano, en tod
 
 El ejercicio de normalización de datos para el cargue al gestor documental consistió en revisar 3 facultades de la Pontificia Universidad Javeriana: Arquitectura y diseño, Artes y Ciencias Económicas y Administrativas. Para ello, a través de la nube de la universidad, me compartieron las carpetas que contienen las transferencias en archivos de excel. Según las instrucciones, únicamente debía concentrarme en los archivos que tuvieran por nombre ´MAESTRO´.
 
-Luego mi coordinadora realizó dos documentos guía para las trasferencias: pasos y el cuadro de diligenciamiento para el cargue: [pasos](Pasos.docx) y el [cuadro guía de diligenciaminento para el cargue](transferencia-documental/guia-transferencias.csv) 
+Luego mi coordinadora realizó dos documentos guía para las trasferencias: pasos y el cuadro de diligenciamiento para el cargue: [pasos](Pasos.docx) y el [cuadro guía de diligenciamiento para el cargue](transferencia-documental/guia-transferencias.csv) 
