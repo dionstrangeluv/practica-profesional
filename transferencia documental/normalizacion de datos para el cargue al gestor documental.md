@@ -1,7 +1,10 @@
-Podríamos decir que la transferencia documental es el proceso de transición de los documentos según su ciclo vital. En este sentido, son las "etapas sucesivas por las que atraviesan los documentos desde su producción o recepción en el archivo de gestión, su conservación temporal en el archivo central y su conservación permanente en el archivo histórico o su eliminación y destrucción, de ser el caso".
+<img width="6308" height="1209" alt="image" src="https://github.com/user-attachments/assets/9c1bca81-f09b-4fdb-87b7-d06a427ced47" />Podríamos decir que la transferencia documental es el proceso de transición de los documentos según su ciclo vital. En este sentido, son las "etapas sucesivas por las que atraviesan los documentos desde su producción o recepción en el archivo de gestión, su conservación temporal en el archivo central y su conservación permanente en el archivo histórico o su eliminación y destrucción, de ser el caso".
 
 Como bien indica el nombre de esta entidad, Archivo Histórico Javeriano, en todo mi ejercicio utilicé documentos de tercera edad, es decir que, según los criterios de conservación de la Universidad, estos archivos son susceptibles a conservación indefinida y también se prestan para consulta al público.
 
 El ejercicio de normalización de datos para el cargue al gestor documental consistió en revisar 3 facultades de la Pontificia Universidad Javeriana: Arquitectura y diseño, Artes y Ciencias Económicas y Administrativas. Para ello, a través de la nube de la universidad, me compartieron las carpetas que contienen las transferencias en archivos de excel. Según las instrucciones, únicamente debía concentrarme en los archivos que tuvieran por nombre ´MAESTRO´.
 
-Luego mi coordinadora realizó dos documentos guía para las trasferencias: pasos y el cuadro de diligenciamiento para el cargue: [pasos](Pasos.docx) y el [cuadro guía de diligenciamiento para el cargue](guia-transferencias.csv) 
+Luego mi coordinadora realizó dos documentos guía para las trasferencias [pasos](Pasos.docx) y el [cuadro guía de diligenciamiento para el cargue](guia-transferencias.csv) 
+
+![Uploading image.png…]()
+
