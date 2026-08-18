@@ -6,5 +6,6 @@ El ejercicio de normalización de datos para el cargue al gestor documental cons
 
 Luego mi coordinadora realizó dos documentos guía para las trasferencias [pasos](Pasos.docx) y el [cuadro guía de diligenciamiento para el cargue](guia-transferencias.csv) 
 
-![Uploading image.png…]()
+****<img width="6308" height="1186" alt="image" src="https://github.com/user-attachments/assets/caa3cedc-0142-417f-8874-2a90a860df93" />
+
 
