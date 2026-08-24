@@ -1,1 +1,1 @@
-
+Puesto que el Archivo Histórico Javeriano recibió el archivo personal del arquitecto  Carlos Arbeláez Camacho, mi tarea consistió en hacer una breve limpieza de las carpetas que llegaron en una de las cajas y, posteriormente, diligenciar un formato de normalización en donde tuve que identificar el contenido de las carpeta y asignarles una decripción.
