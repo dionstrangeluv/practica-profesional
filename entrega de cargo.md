@@ -27,7 +27,7 @@ Objetivo: diseñar un producto que evidencie el desarrollo de la práctica profe
 
    4.1 Descripción de cada una
    - [Reconocer la historia y trayectoria institucional del Archivo Histórico Javeriano](induccion/historia-y-trayectoria-institucional-del-Archivo-Historico-Javeriano.md).
-   - [Normalizar los datos de los inventarios documentales históricos para el cargue de información en el gestor documental](trd/normalizacion-de-datos-para-el-cargue-al-gestor-documental.md).
+   - [Normalizar los datos de los inventarios documentales históricos para el cargue de información en el gestor documental](transferencia-documental/normalizacion-de-datos-para-el-cargue-al-gestor-documental.md).  
    - [Lectura de las actas de consejo y diligenciamiento de cuadro para la recuperación de información](actas-del-consejo/actas-de-consejo.md).
    - Ejercicio práctico con el Fondo Carlos Arbeláez Camacho.
    
