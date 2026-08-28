@@ -6,7 +6,6 @@ Objetivo: diseñar un producto que evidencie el desarrollo de la práctica profe
 1. Nombres y apellidos del practicante y correo electrónico de contacto:
    Marcela Ipial Villamil.
    Correo institucional: ipial.marcela@javeriana.edu.co
-   Correo personal: ipialmarcela@gmail.com
 
 2. Lugar donde realizó la práctica y nombre del cargo.
    
